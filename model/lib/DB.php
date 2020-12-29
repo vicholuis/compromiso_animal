@@ -1,4 +1,11 @@
 <?php
+/**
+ * Abstrae las operaciones en la base de datos.
+ *  
+ * @author PHPCODE2021
+ * @version 1.0
+ * @package System
+ */
 class DB{
     /**
      * @return PDO
