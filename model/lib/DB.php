@@ -3,7 +3,7 @@
  * Abstrae las operaciones en la base de datos.
  *  
  * @author PHPCODE2021
- * @version 1.0
+ * @version 1.01
  * @package System
  */
 class DB{
